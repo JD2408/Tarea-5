@@ -8,125 +8,85 @@
 ## 1. OBJETIVOS
 
 ***Objetivo General***
-- Entender los conceptos generales de la teoría de circuitos: intensidad de corriente, diferencia de potencial, energía y potencia eléctrica, etc.Y la relación que existe entre estas.
-- Entender a la perfeccion la ley de ohm y ser capaz de realizar calculos con variaciones de corriente resistencia y voltaje
+
 
  ***Objetivos Específicos***
  
- - Describir aproximaciones basicas para calcular el error 
- - Analizar la conducccion de diferentes tipos de cables y su relaion con la resistencia total
- - La potencia alimentada o recibida por algún elemento de un circuito de se puede calcular aplicando cierto tipo de formulas que relacionan los conceptos de intensidad de corriente y voltajes.
- - Conocer y explicar como se relaciona la energia con la potencia, y caules son sus unidades de medida.
+
  
  ## 2. MARCO TEÓRICO
  
-***Capitulo 1***
+***Capitulo 9***
 
-![Diagrama 3-1](https://user-images.githubusercontent.com/94129932/141872557-0d77c1ef-abd1-4f5e-89cf-d0e536bec58e.png)
-![Diagrama 3-2](https://user-images.githubusercontent.com/94129932/141872340-109b3389-7705-4ec7-944a-33f87eac5135.png)
-![Diagrama 3-3](https://user-images.githubusercontent.com/94129932/141872345-3b0208c7-1695-4a04-83cc-e7ed763b26ce.png)
-![Diagrama 3-4](https://user-images.githubusercontent.com/94129932/141872336-9b5f6e6a-fcc8-4c42-af80-4232f2a26b98.png)
-![Diagrama 3-5](https://user-images.githubusercontent.com/94129932/141872338-2d80aef4-e74c-4c8a-aba7-4ce3b870861d.png)
 
-***Capitulo 2***
 
-![Diagrama en blanco (2)](https://user-images.githubusercontent.com/93794279/141873242-b3060d57-de36-4ce5-b084-763d7d3c54bf.png)
-![Diagrama en blanco (8)](https://user-images.githubusercontent.com/93794279/141878929-895ea5c0-c79f-48f6-9f7f-c24332523ba1.png)
+***Capitulo 10***
+
 
 
 
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
 
 
-### CAPÍTULO 3
+### CAPÍTULO 9
 
 *SECCIÓN 3–1 La relación de corriente, voltaje y resistencia*
 
-1. En un circuito compuesto de una fuente de voltaje y un resistor, describa qué le sucede a la corriente cuando:
-
-(a) el voltaje se triplica
-(b) el voltaje se reduce en 75%
-(c) la resistencia se duplica
-(d) la resistencia se reduce en 35%
-(e) el voltaje se duplica y la resistencia se reduce a la mitad
-(f) el voltaje y la resistencia se duplican
-
-[![Imagen1.png](https://i.postimg.cc/5tGdh2qG/Imagen1.png)](https://postimg.cc/CZjQDY2H)
-
-2. Enuncie la fórmula utilizada para encontrar V cuando los valores de I y R son conocidos.
-
-[![Imagen2.png](https://i.postimg.cc/ZK0PRYrj/Imagen2.png)](https://postimg.cc/KRS3p2pg)
-
-3. Se conecta una fuente de voltaje variable al circuito de la figura 3-18. Comience con 0 V e incremente el voltaje, en pasos de 10 V, hasta 100 V. Determine la corriente en cada voltaje y trace una gráfica de V contra I. ¿Es la gráfica una línea recta? ¿Qué indica la gráfica?
-
-[![Imagen3.png](https://i.postimg.cc/FHV0Cfmr/Imagen3.png)](https://postimg.cc/xXqkc1ch)
-
-4. La figura 3-19 es una gráfica de corriente contra voltaje para tres valores de resistencia. Determine R1, R2 y R3.
-
-[![Imagen6.png](https://i.postimg.cc/fLs9ZDKz/Imagen6.png)](https://postimg.cc/NyNMkhSS)
-
-5. Trace la relación corriente-voltaje para un resistor de cinco bandas con código de colores café, verde, gris, café, rojo.
-
-[![Imagen13.png](https://i.postimg.cc/VsTY7KTs/Imagen13.png)](https://postimg.cc/XXfSqk4t)
-
-6. Se mide la corriente en un circuito que opera con una batería de 10 V. El amperímetro lee 50 mA. Más tarde, se observa que la corriente cae a 30 mA. Eliminando la posibilidad de un cambio de resistencia, debe concluirse que el voltaje ha cambiado. ¿Cuánto ha cambiado el voltaje de la batería y cuál es su nuevo valor?
-
-[![Imagen4.png](https://i.postimg.cc/G2QNc3kd/Imagen4.png)](https://postimg.cc/wy1F2pfG)
-
-7. Trace una gráfica de corriente contra voltaje con valores de voltaje que vayan de 10 a 100 V, en incrementos de 10 V, para cada uno de los siguientes valores de resistencia:
-
-[![Imagen5.png](https://i.postimg.cc/qMR5cTdZ/Imagen5.png)](https://postimg.cc/s1kmybxp)
-
-[![Imagen14.png](https://i.postimg.cc/SsnKs355/Imagen14.png)](https://postimg.cc/7Gy4tsqM)
-
-*SECCIÓN 3–2 Cálculo de la corriente*
-
-9. Determine la corriente en cada caso:
-
-[![Imagen2.png](https://i.postimg.cc/Bv6CK3rS/Imagen2.png)](https://postimg.cc/9D6966XK)
-
-10. Se conecta un resistor de 10  a través de una batería de 12 V. ¿Cuál es la corriente a través del resistor?
-
-[![Imagen3.png](https://i.postimg.cc/rmTFHyqc/Imagen3.png)](https://postimg.cc/CZvgBgZ6)
-
-11. Se conecta un resistor de cuatro bandas a través de las terminales de una fuente de 25 V. Determine la corriente del resistor si el código de colores es amarillo, violeta, naranja, plata.
-
-[![Imagen4.png](https://i.postimg.cc/rsSHPcF6/Imagen4.png)](https://postimg.cc/1V3M8kqM)
-
-12. Si el voltaje del problema 20 se duplica, ¿se fundirá un fusible de 0.5 A? Explique su respuesta.
-
-[![Imagen5.png](https://i.postimg.cc/L4tH0Q6S/Imagen5.png)](https://postimg.cc/3Ww5kBvf)
+1. Con el método de sustitución, resuelva el siguiente conjunto de ecuaciones para IR1 e IR2.
 
 
-*SECCIÓN 3–3 Cálculo de voltaje*
 
-13. Calcule el voltaje para cada valor de I y R:
-
-[![Imagen7.png](https://i.postimg.cc/50wHxwLF/Imagen7.png)](https://postimg.cc/LY84DgyH)
-
-14. Se leen tres amperes de corriente a través de un resistor de 27  conectado a una fuente de voltaje.
-¿Cuánto voltaje produce la fuente?
-
-[![Imagen8.png](https://i.postimg.cc/fTXM1w7J/Imagen8.png)](https://postimg.cc/fJz49QrN)
-
-15. Se conecta una fuente de 6 V a un resistor de 100  mediante dos tramos de alambre de cobre calibre 18 de 12 pies de largo. La resistencia total es la resistencia de los dos alambres sumada al resistor de 100 . Determine lo siguiente:
-
-[![Imagen9.png](https://i.postimg.cc/zfZG2yHt/Imagen9.png)](https://postimg.cc/dh6FLtBr)
+2. Utilizando determinantes, resuelva el siguiente conjunto de ecuaciones para ambas corrientes:
 
 
-*SECCIÓN 3–4 Cálculo de la resistencia*
 
-16. Calcule la resistencia de un reóstato para cada juego de valores de V e I:
+3. Evalúe cada uno de los determinantes:
 
-[![Imagen10.png](https://i.postimg.cc/4dMcdJFr/Imagen10.png)](https://postimg.cc/ygmxpzKP)
 
-17. En el circuito de la figura 3-23(a), el filamento de una lámpara tiene cierta cantidad de resistencia, la cual está representada por una resistencia equivalente en la figura 3-23(b). Si la lámpara opera con 120 V y 0.8 A de corriente, ¿cuál es la resistencia de su filamento cuando está encendida
 
-[![Imagen11.png](https://i.postimg.cc/zX3DJsm1/Imagen11.png)](https://postimg.cc/N5qvDPfN)
+4. Resuelva para I1, I2, I3 en el siguiente conjunto de ecuaciones con determinantes:
 
-18. Al variar el reóstato (resistor variable) en el circuito de la figura 3-24, puede cambiar la cantidad de corriente. El ajuste del reóstato es tal que la corriente es de 750 mA. ¿Cuál es el valor de resistencia de este ajuste? Para ajustar la corriente a 1 A, ¿a qué valor de resistencia debe ajustar el reóstato? 
 
-[![Imagen12.png](https://i.postimg.cc/mg2nfsKQ/Imagen12.png)](https://postimg.cc/1f2BwLmt)
+
+5. Resuelva las dos ecuaciones simultáneas del problema 1 con su calculadora.
+
+
+
+6. Escriba la ecuación de la corriente de Kirchhoff para la asignación de corriente mostrada en el nodo A en la figura 9-26.
+
+
+
+7. Determine la caída de voltaje entre los extremos de cada resistor mostrado en la figura 9-26 e indique la polaridad real.
+
+
+
+
+9. En la figura 9-27, determine el voltaje entre las terminales de la fuente de corriente (puntos A y B).
+
+
+
+10. Con el método de la corriente en lazos, determine las corrientes en los lazos que aparecen en la figura 9-28.
+
+
+
+11. Determine el voltaje entre las terminales del puente abierto, A y B, en la figura 9-30.
+
+
+
+12. Escriba las ecuaciones de lazo en la forma estándar para el circuito puente T mostrado en la figura 9-31.
+
+
+
+13. ¿Cuáles son los valores de corriente de rama en la figura 9-32? En cada rama, muestre la dirección real de la corriente.
+
+
+
+14. Use el análisis de nodos para determinar el voltaje en los puntos A y B con respecto a tierra en la figura 9-33.
+
+
+15. Use el análisis de nodos, el de lazos, o cualquier otro procedimiento para determinar las corrientes y los voltajes en cada nodo desconocido en la figura 9-35.
+
+
 
 
 
