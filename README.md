@@ -90,7 +90,7 @@
 
 
 
-### CAPÍTULO 4
+### CAPÍTULO 10
 *SECCIÓN 3–1 ENERGÍA Y POTENCIA*
 
 1. Demuestre que la unidad de potencia (el watt) equivale a un volt por un ampere.
@@ -189,18 +189,12 @@ yor, menor o igual a la potencia que hay durante un intervalo de dos minutos?
 
 ## 4. VIDEOS
 
-### CAPÍTULO 3
+### CAPÍTULO 9
 
-https://www.youtube.com/watch?v=2tkdzQ-FbkY
 
-### CAPÍTULO 4
-
-https://youtu.be/i2JulJZmc20
+### CAPÍTULO 10
 
 
 ## 5. CONCLUSIONES
-- Se concluye que la ley de ohm puede ser aplicada en tres casos, cuandio se desconoce la corriente, la resistencia o el voltaje teniendo asi solo tres formulas de la ley de ohm que a la final serian la misma con incognitas depejadas 
- - En conclusión podemos decir que la Potencia eléctrica es directamente proporcional al trabajo que realiza una corriente al desplazarse por una carga e inversamente proporcional al tiempo que demora en realizarse este trabajo.
- - Podemos concluir que como potencia es la rapidez con que se realiza un trabajo, se puede decir que es el tiempo que tarda en hacer la fuerza con una energía. 
 
 ## 6. BIBLIOGRAFIA
