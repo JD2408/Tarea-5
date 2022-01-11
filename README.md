@@ -187,6 +187,74 @@ yor, menor o igual a la potencia que hay durante un intervalo de dos minutos?
 
 ![image](https://user-images.githubusercontent.com/93794279/141915359-00cd18d2-2030-41c4-8857-45df0fabcfe8.png)
 
+
+**Capitulo 10**
+*El campo magnético(10_1)*
+
+1. El área de sección transversal de un campo magnético se incrementa, pero el flujo no cambia. ¿La densidad de flujo aumenta o disminuye?
+
+La densidad disminuye como hemos visto en el capitulo 10_1 si el dujo se mantiene constante pero el area de seccion transversal de un campo mágnetico se incrementa
+
+2. ¿Cuál es el flujo en un material magnético cuando la densidad de flujo es de 2500 x 106 T y el área de sección transversal mide 150 cm2 ?
+
+![image](https://user-images.githubusercontent.com/93794279/148854322-788b22a7-e84e-44a7-8667-72d7e8dd442e.png)
+
+3. Un imán permanente muy fuerte tiene un campo magnético de 100,000 mT. Exprese esta densidad de
+flujo en gauss.
+
+![image](https://user-images.githubusercontent.com/93794279/148854722-0a32fb42-f885-4135-8059-7afca98ac27b.png)
+
+4.¿Cuál es la permeabilidad relativa de un material ferromagnético cuya permeabilidad absoluta es de 750 x10^6 Wb/At·m?
+![image](https://user-images.githubusercontent.com/93794279/148855024-374fec38-0608-45eb-a697-9062fb82faa7.png)
+
+5.¿Cuál es la fuerza magnetomotriz en una bobina de 50 vueltas de hilo cuando hay 3 A de corriente a
+través de él?
+
+![image](https://user-images.githubusercontent.com/93794279/148857028-31ecd994-8dca-4558-8a20-bf10b387c340.png)
+
+6.(a) ¿Qué fuerza mueve el émbolo de imán cuando se activa un solenoide?
+  Fuerza de atracción electromagnética
+  (b) ¿Qué fuerza hace que el émbolo de imán regrese a su posición de reposo?
+  La fuerza de retención, es proporcionada por el muelle
+
+7. ¿Qué ocasiona que la aguja instalada en un movimiento de d’Arsonval se deflexione cuando circula corriente a través de la bobina
+
+El galvanómetro es una herramienta que se encarga de establecer un interesante estudio de la acción de un campo magnético, en un principio se basó en un instrumento que era orientado por el campo magnético terrestre y proporcionaba la fuerza para restablecer la aguja de la brújula.
+
+
+8. ¿Cómo se puede cambiar la densidad de flujo en la figura 10-44 sin alterar las características físicas del núcleo.
+
+![image](https://user-images.githubusercontent.com/93794279/148857853-b3e03c41-eee7-4558-94a5-88e41bd85396.png)
+
+Así que para cambiar la densidad de flujo sin alterar las características físicas del núcleo simplemente cambiamos la corriente que fluye a través de las bobinas
+
+9.Determine a partir de las curvas de histéresis mostradas en la figura 10-45 qué material tiene más retentividad.
+![image](https://user-images.githubusercontent.com/93794279/148858395-2a9d132a-2fe2-4e6e-bbf0-d945893059f0.png)
+
+El bucle de histéresis con menos retentividad o bien podemos decir que el área del bucle de histéresis es menor tendrá más capacidad de retener la magnetización.
+
+De la gráfica dada todos pueden retener la magnetización pero el material x tiene la mayor capacidad de retener la magnetización, optias 4 el material C es la respuesta correcta
+
+10.¿Cuáles son los tres factores que determinan el voltaje en un conductor que se mueve en dirección perpendicular al campo magnético?
+
+La inducción electromagnética es el proceso por el cual se puede inducir una corriente por medio de un cambio en el campo magnético.
+En nuestro artículo sobre fuerzas magnéticas, estudiamos la fuerza que experimentan las cargas en movimiento dentro de un campo magnético. La fuerza que experimenta un alambre por el que pasa corriente debida a los electrones en movimiento cuando está en la presencia de un campo magnético es un ejemplo clásico.
+
+11. ¿Cómo complementa la ley de Lenz a la ley de Faraday?
+
+Fue formulada por Heinrich Lenz en 1833. Mientras que la ley de Faraday nos dice la magnitud de la FEM producida, la ley de Lenz nos dice en qué dirección fluye la corriente, y establece que la dirección siempre es tal que se opone al cambio de flujo que la produce.
+
+12.Explique el propósito del conmutador y de las escobillas en la figura 10-35
+![image](https://user-images.githubusercontent.com/93794279/148859171-f074f557-8df3-47b6-b010-5cd2447a2b79.png)
+La función principal de las escobillas de carbón.
+* Recoger del conmmutador .
+* Es principalmente eres conducir la corriente eléctrica entre la eltaroinasy la parte giratoria del motor.
+* El carbono es como buen conductor de la electricidad
+* Es suave y proporciona un punto de contacto consistente
+
+
+
+
 ## 4. VIDEOS
 
 ### CAPÍTULO 9
