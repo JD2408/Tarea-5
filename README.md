@@ -8,10 +8,12 @@
 ## 1. OBJETIVOS
 
 ***Objetivo General***
-
+Aplicar los diferentes métodos de análisis de circuitos para poder determinar la corriente, voltaje que circula por el circuito y además identificar la relación existente entre electricidad y magnetismo por medio de la introducción electromagnética y el electroimán.
 
  ***Objetivos Específicos***
- 
+ 1. Utilizar el método de la corriente en ramas,análisis de lazos y análisis de nodos para determinar cantidades desconocidas en un circuito.
+ 2.. Explicar los principios de un campo magnético
+ 3. Explicar los principios del electromagnetismo
 
  
  ## 2. MARCO TEÓRICO
@@ -296,5 +298,8 @@ La función principal de las escobillas de carbón.
 
 
 ## 5. CONCLUSIONES
-
+1. El método de análisis de mallas y nodos nos permiten ver de manera más sencilla el comportamiento de la corritne y voltaje dentro de un circuito siempre y cuando las ecuaciones esten bien planteadas.
+2.En clusión, el magnetismo fenómeno físico a el que ejerce fuerzas de atracción ante algunos objetos, el níquel, el cobalto el hierro y las aleaciones se les llama imanes. Que lo cual todo influye en el magnetismo por que es llama el campo magnético.
+3. También el magnetismo terrestre muy importante este tema que claro que es Líneas que señalan cada punto de la tierra en una sola dirección: Norte-Sur magnéticas, conocida como meridiana.
 ## 6. BIBLIOGRAFIA
+-Mejia, J. B. (2018, enero). Práctica 4: Nodos y mallas. https://media.utp.edu.co/ingenieria-fisica/archivos/Practica_4Gen.pdf
