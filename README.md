@@ -304,4 +304,8 @@ https://youtu.be/mMmV9_LRuYc
 3. También el magnetismo terrestre muy importante este tema que claro que es Líneas que señalan cada punto de la tierra en una sola dirección: Norte-Sur magnéticas, conocida como meridiana.
 ## 6. BIBLIOGRAFIA
 
--Mejia, J. B. (2018, enero). Práctica 4: Nodos y mallas. https://media.utp.edu.co/ingenieria-fisica/archivos/Practica_4Gen.pdf
+- Campos eléctricos y magnéticos. (n.d.). Ree.es. Retrieved January 13, 2022, from https://www.ree.es/es/sostenibilidad/medioambiente/campos-electricos-y-magneticos
+
+- Glosario: Campo magnético. (n.d.). Europa.eu. Retrieved January 13, 2022, from https://ec.europa.eu/health/scientific_committees/opinions_layman/es/campos-electromagneticos/glosario/abc/campo-magnetico.htm
+
+
