@@ -19,6 +19,9 @@
 ***Capitulo 9***
 
 ![Diagrama en blanco (10)](https://user-images.githubusercontent.com/94129932/149337053-8888876f-1ce6-4fc1-b279-2816f8940bc3.png)
+![Diagrama en blanco (11)](https://user-images.githubusercontent.com/94129932/149338407-c9a26e59-7ccc-4843-9fed-2d056870cb33.png)
+![Diagrama en blanco (12)](https://user-images.githubusercontent.com/94129932/149339030-d6a4e085-b289-4595-a214-16576ae3f590.png)
+![Diagrama en blanco (13)](https://user-images.githubusercontent.com/94129932/149339810-c0069afb-f48a-41ad-b566-ab017614aabd.png)
 
 
 ***Capitulo 10***
