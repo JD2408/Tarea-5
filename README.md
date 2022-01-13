@@ -26,6 +26,8 @@
 
 ***Capitulo 10***
 
+![Diagrama en blanco (14)](https://user-images.githubusercontent.com/94129932/149341505-4e7b016e-e562-4f8a-a90b-75fc2e75d99c.png)
+![Diagrama en blanco (15)](https://user-images.githubusercontent.com/94129932/149343298-4c50e2b2-b30c-4401-b57b-16d45c2f11e5.png)
 
 
 
