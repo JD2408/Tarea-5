@@ -18,6 +18,7 @@
  
 ***Capitulo 9***
 
+![Diagrama en blanco (10)](https://user-images.githubusercontent.com/94129932/149337053-8888876f-1ce6-4fc1-b279-2816f8940bc3.png)
 
 
 ***Capitulo 10***
