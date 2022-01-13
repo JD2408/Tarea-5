@@ -30,61 +30,77 @@
 
 ### CAPÍTULO 9
 
-*SECCIÓN 3–1 La relación de corriente, voltaje y resistencia*
+*SECCIÓN 9–1 Ecuaciones simultáneas en el análisis de circuitos*
 
 1. Con el método de sustitución, resuelva el siguiente conjunto de ecuaciones para IR1 e IR2.
 
+[![Imagen1.png](https://i.postimg.cc/jd1hr5TZ/Imagen1.png)](https://postimg.cc/BXxFTJXK)
+
+3. Utilizando determinantes, resuelva el siguiente conjunto de ecuaciones para ambas corrientes:
+
+[![Imagen2.png](https://i.postimg.cc/HkG727dD/Imagen2.png)](https://postimg.cc/tY5TRJs2)
+
+5. Evalúe cada uno de los determinantes:
+
+[![Imagen3.png](https://i.postimg.cc/R0pKxSjv/Imagen3.png)](https://postimg.cc/7C7fgkHR)
+
+7. Resuelva para I1, I2, I3 en el siguiente conjunto de ecuaciones con determinantes:
+
+[![Imagen4.png](https://i.postimg.cc/HnYg0mk7/Imagen4.png)](https://postimg.cc/HchRHf5p)
+
+9. Resuelva las dos ecuaciones simultáneas del problema 1 con su calculadora.
+
+[![Imagen5.png](https://i.postimg.cc/zvXsbkxC/Imagen5.png)](https://postimg.cc/5YT7D8dy)
 
 
-2. Utilizando determinantes, resuelva el siguiente conjunto de ecuaciones para ambas corrientes:
+*SECCIÓN 9–2 Método de la corriente en ramas*
 
+11. Escriba la ecuación de la corriente de Kirchhoff para la asignación de corriente mostrada en el nodo A en la figura 9-26.
 
+[![Imagen6.png](https://i.postimg.cc/sX38qcdk/Imagen6.png)](https://postimg.cc/1gYJNDzB)
 
-3. Evalúe cada uno de los determinantes:
+13. Determine la caída de voltaje entre los extremos de cada resistor mostrado en la figura 9-26 e indique la polaridad real.
 
+[![Imagen7.png](https://i.postimg.cc/L8dxGTjx/Imagen7.png)](https://postimg.cc/ZCcPd67N)
 
+15. En la figura 9-27, determine el voltaje entre las terminales de la fuente de corriente (puntos A y B).
 
-4. Resuelva para I1, I2, I3 en el siguiente conjunto de ecuaciones con determinantes:
+[![Imagen8.png](https://i.postimg.cc/0jspctTS/Imagen8.png)](https://postimg.cc/phshdBXV)
 
-
-
-5. Resuelva las dos ecuaciones simultáneas del problema 1 con su calculadora.
-
-
-
-6. Escriba la ecuación de la corriente de Kirchhoff para la asignación de corriente mostrada en el nodo A en la figura 9-26.
-
-
-
-7. Determine la caída de voltaje entre los extremos de cada resistor mostrado en la figura 9-26 e indique la polaridad real.
-
-
-
-
-9. En la figura 9-27, determine el voltaje entre las terminales de la fuente de corriente (puntos A y B).
-
-
-
-10. Con el método de la corriente en lazos, determine las corrientes en los lazos que aparecen en la figura 9-28.
-
-
-
-11. Determine el voltaje entre las terminales del puente abierto, A y B, en la figura 9-30.
-
-
-
-12. Escriba las ecuaciones de lazo en la forma estándar para el circuito puente T mostrado en la figura 9-31.
+[![Imagen9.png](https://i.postimg.cc/6pg4MjRQ/Imagen9.png)](https://postimg.cc/TKjPwct8)
 
 
 
-13. ¿Cuáles son los valores de corriente de rama en la figura 9-32? En cada rama, muestre la dirección real de la corriente.
+*SECCIÓN 9–3 Método de la corriente en lazos *
+
+
+17. Con el método de la corriente en lazos, determine las corrientes en los lazos que aparecen en la figura 9-28.
+
+[![Imagen10.png](https://i.postimg.cc/Wp539YcP/Imagen10.png)](https://postimg.cc/SjzkRrKZ)
+
+19. Determine los voltajes y sus polaridades apropiadas en cada uno de los resistores mostrados en la figura 9-28.
 
 
 
-14. Use el análisis de nodos para determinar el voltaje en los puntos A y B con respecto a tierra en la figura 9-33.
+21. Determine el voltaje entre las terminales del puente abierto, A y B, en la figura 9-30.
+
+[![Imagen11.png](https://i.postimg.cc/L8D2Xn4F/Imagen11.png)](https://postimg.cc/0zzLX5JV)
+
+23. Escriba las ecuaciones de lazo en la forma estándar para el circuito puente T mostrado en la figura 9-31.
+
+[![Imagen12.png](https://i.postimg.cc/SRdD8FnR/Imagen12.png)](https://postimg.cc/XBZfSPc6)
+
+[![Imagen13.png](https://i.postimg.cc/Ssy99XCL/Imagen13.png)](https://postimg.cc/mc5hfgdh)
 
 
-15. Use el análisis de nodos, el de lazos, o cualquier otro procedimiento para determinar las corrientes y los voltajes en cada nodo desconocido en la figura 9-35.
+25. ¿Cuáles son los valores de corriente de rama en la figura 9-32? En cada rama, muestre la dirección real de la corriente.
+
+
+
+27. Use el análisis de nodos para determinar el voltaje en los puntos A y B con respecto a tierra en la figura 9-33.
+
+
+29. Use el análisis de nodos, el de lazos, o cualquier otro procedimiento para determinar las corrientes y los voltajes en cada nodo desconocido en la figura 9-35.
 
 
 
