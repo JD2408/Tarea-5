@@ -80,17 +80,17 @@
 
 19. Determine los voltajes y sus polaridades apropiadas en cada uno de los resistores mostrados en la figura 9-28.
 
-
-
-21. Determine el voltaje entre las terminales del puente abierto, A y B, en la figura 9-30.
-
 [![Imagen11.png](https://i.postimg.cc/L8D2Xn4F/Imagen11.png)](https://postimg.cc/0zzLX5JV)
 
-23. Escriba las ecuaciones de lazo en la forma estándar para el circuito puente T mostrado en la figura 9-31.
+21. Determine el voltaje entre las terminales del puente abierto, A y B, en la figura 9-30.
 
 [![Imagen12.png](https://i.postimg.cc/SRdD8FnR/Imagen12.png)](https://postimg.cc/XBZfSPc6)
 
 [![Imagen13.png](https://i.postimg.cc/Ssy99XCL/Imagen13.png)](https://postimg.cc/mc5hfgdh)
+
+23. Escriba las ecuaciones de lazo en la forma estándar para el circuito puente T mostrado en la figura 9-31.
+
+
 
 
 25. ¿Cuáles son los valores de corriente de rama en la figura 9-32? En cada rama, muestre la dirección real de la corriente.
