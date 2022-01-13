@@ -82,25 +82,29 @@
 
 [![Imagen11.png](https://i.postimg.cc/L8D2Xn4F/Imagen11.png)](https://postimg.cc/0zzLX5JV)
 
-21. Determine el voltaje entre las terminales del puente abierto, A y B, en la figura 9-30.
+21. Resuelva para las corrientes de lazo en la figura 9-29 con su calculadora. 
 
 [![Imagen12.png](https://i.postimg.cc/SRdD8FnR/Imagen12.png)](https://postimg.cc/XBZfSPc6)
 
 [![Imagen13.png](https://i.postimg.cc/Ssy99XCL/Imagen13.png)](https://postimg.cc/mc5hfgdh)
 
-23. Escriba las ecuaciones de lazo en la forma estándar para el circuito puente T mostrado en la figura 9-31.
+23. Determine el voltaje entre las terminales del puente abierto, A y B, en la figura 9-30. 
 
 
 
-
-25. ¿Cuáles son los valores de corriente de rama en la figura 9-32? En cada rama, muestre la dirección real de la corriente.
-
+25. Escriba las ecuaciones de lazo en la forma estándar para el circuito puente T mostrado en la figura 9-31. 
 
 
-27. Use el análisis de nodos para determinar el voltaje en los puntos A y B con respecto a tierra en la figura 9-33.
+
+27. ¿Cuáles son los valores de corriente de rama en la figura 9-32? En cada rama, muestre la dirección real de la corriente.
 
 
-29. Use el análisis de nodos, el de lazos, o cualquier otro procedimiento para determinar las corrientes y los voltajes en cada nodo desconocido en la figura 9-35.
+
+29. Use el análisis de nodos para determinar el voltaje en los puntos A y B con respecto a tierra en la figura 9-33
+
+
+
+31. Use el análisis de nodos, el de lazos, o cualquier otro procedimiento para determinar las corrientes y los voltajes en cada nodo desconocido en la figura 9-35.
 
 
 
