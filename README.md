@@ -1,9 +1,10 @@
 # Tarea-5
 
 # Informe Ejercicios Capitulo 9 y 10
-### Fundamento de circuitos Eléctricos 
+
 #### Ing. Darwin Omar Alulema Flores
 
+#### Integrantes: Padilla Kevin, Samueza David, Avilés Kevin
 
 ## 1. OBJETIVOS
 
